@@ -10,3 +10,5 @@
   - JavaScript
   - Bootstrap
   - React.js
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Viserya11&theme=onedark_duo&border_radius=1.9)](https://git.io/streak-stats)
