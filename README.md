@@ -11,6 +11,14 @@
   - Bootstrap
   - React.js
   
-  
-    <p align="center">  [![GitHub Streak](https://streak-stats.demolab.com?user=Viserya11&theme=onedark_duo&border_radius=1.9)](https://git.io/streak-stats)  </p>
+<br>
+<div id="stats" align="center">
+ <p align="center">
+  My stats:
+ </p>
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Viserya11&theme=onedark_duo&border_radius=1.9)](https://git.io/streak-stats) 
+ 
+ 
+</div>
 
