@@ -19,7 +19,7 @@
     </div>
   
   
-  
+   <hr>
   
 
   <p align="center"><b>My stats:</b></p>
