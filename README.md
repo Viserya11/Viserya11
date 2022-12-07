@@ -3,13 +3,13 @@
 
  I am currently finishing my studies at EPICODE as a Front-End Developer. I'm based in Budapest, Hungary, speaking Hungarian and English.
   
- The languages and frameworks I work with:
+ <p align="center">The languages and frameworks I work with:
   
   - HTML
   - CSS
   - JavaScript
   - Bootstrap
-  - React.js
+  - React.js</p>
   
   
 
