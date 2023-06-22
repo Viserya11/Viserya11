@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Panni</h1>
 <h3 align="center">✨Front-End Developer✨</h3>
 
-    <p align="center"> I'm based in Budapest, Hungary, speaking Hungarian and English. </p>
+<p align="center"> I'm based in Budapest, Hungary, speaking Hungarian and English. </p>
   
    <p align="center"><b>The languages and frameworks I work with:</b></p>
   
